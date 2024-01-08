@@ -1,0 +1,6 @@
+1. git branch
+    > lists all the branches and highlights the current/ active branch
+
+2. git branch <branch_name>
+
+3. git checkout -b <branch_name>
